@@ -1,2 +1,2 @@
-# doc-UE4-jump_mechanics
+# doc-UE4-jump_mechanic
 documentation
